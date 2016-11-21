@@ -1,0 +1,9 @@
+# TARDIS
+
+Exploring spatiotemporal network transitions in task functional MRI
+
+Gregory Scott, Peter J. Hellyer, Adam Hampshire, Robert Leech
+
+http://onlinelibrary.wiley.com/doi/10.1002/hbm.22706/full
+
+A critical question for cognitive neuroscience regards how transitions between cognitive states emerge from the dynamic activity of functional brain networks. Here we combine a simple data reorganization with spatial independent component analysis (ICA), enabling a spatiotemporal ICA (stICA) which captures the consistent evolution of networks during the onset and offset of a task. The technique was applied to functional magnetic resonance imaging (MRI) (FMRI) datasets involving alternating between rest and task, and to simple synthetic data. Starting and finishing time-points of periods of interest (anchors) were defined at task block onsets and offsets. For each subject, the 10 volumes following each anchor were extracted and concatenated spatially, producing a single 3D sample. Samples for all anchors and subjects were concatenated along the fourth dimension. This 4D dataset was decomposed using ICA into spatiotemporal components. One component exhibited the transition with task onset from a default mode network (DMN) becoming less active to a frontoparietal control network becoming more active. We observed other changes with relevance to understanding network dynamics, for example, the DMN showed a changing spatial distribution, shifting to an anterior/superior pattern of deactivation during task from a posterior/inferior pattern during rest. By anchoring analyses to periods associated with the onsets and offsets of task, our approach reveals novel aspects of the dynamics of network activity accompanying these transitions. Importantly, these findings were observed without specifying a priori either the spatial networks or the task time courses. 
